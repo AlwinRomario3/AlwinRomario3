@@ -1,13 +1,15 @@
-ALWIN
+ALWIN Romario
 Web Developer | Designer | Your Tagline
 
 About Me
-Write a brief introduction about yourself, your background, and your career goals.
+I am Alwin Romario,I will like learn new things.
 
 Education
-Degree Name: B.sc computer science
-Institution: st.joseph's college
-Year of Graduation: 2025
+Degree Name: B.sc computer science and MCA
+Institution: st.joseph's college(B.SC.CS)
+             Bishop Heber College(MCA)
+Year of Graduation: 2025(B.sc.cs)
+                    2027(MCA)
 Courses
 python
 HTML
@@ -24,7 +26,5 @@ communication
 java
 visual basic
 Activities
-NCC
-NSS
 sports
 © 2024 Your Name. All rights reserved.
